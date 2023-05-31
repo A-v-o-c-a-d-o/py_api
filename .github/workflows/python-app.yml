@@ -16,4 +16,4 @@ jobs:
 
     steps:
     - name: Install dependencies
-      run: call test.cmd
+      run: .\test.cmd
